@@ -27,7 +27,7 @@ To work on OpenMapTiles you need Docker and Python.
 Build the tileset.
 
 ```bash
-git clone git@github.com:openmaptiles/skiing.git
+git clone git@github.com:openmaptiles-skiing.git
 cd openmaptiles
 # Build the imposm mapping, the tm2source project and collect all SQL scripts
 make
